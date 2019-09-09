@@ -1,5 +1,5 @@
 # CS111
-Introduction to Computer Science - Rutgers CS 
+Introduction to Computer Science - Rutgers 
 CS 111 Introduction to Computer Science at Rutgers University
 
 Alex Borgida
